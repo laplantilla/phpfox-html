@@ -1,12 +1,16 @@
 {
-	"id": "Vieber_HTML",
-	"name": "Enable HTML",
-	"version": 1.0,
-	"icon": "",
-	"settings": {
-		"vieber_html_allowed_tags": {
-			"info": "HTML to Allow",
-			"value": "p,b,a[href],i,img[src],strong,font"
-		}
-	}
+    "id": "Vieber_HTML",
+    "name": "Enable HTML",
+    "version": 1.1,
+    "vendor": "Vieber",
+    "icon": "",
+    "settings": {
+        "vieber_html_allowed_tags": {
+            "info": "HTML to Allow",
+            "value": "p,b,a[href],i,img[src],strong,font"
+        }
+    },
+    "credits": {
+        "HTML Purifier": "http:\/\/htmlpurifier.org\/"
+    }
 }
