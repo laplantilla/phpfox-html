@@ -1,0 +1,12 @@
+{
+	"id": "Vieber_HTML",
+	"name": "Enable HTML",
+	"version": 1.0,
+	"icon": "",
+	"settings": {
+		"vieber_html_allowed_tags": {
+			"info": "HTML to Allow",
+			"value": "p,b,a[href],i,img[src],strong,font"
+		}
+	}
+}
