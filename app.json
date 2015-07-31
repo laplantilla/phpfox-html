@@ -1,9 +1,9 @@
 {
     "id": "Vieber_HTML",
     "name": "Enable HTML",
-    "version": 1.9,
+    "version": 2,
     "vendor": "Vieber",
-    "icon": "",
+    "icon": "\/\/d2h79mkp7etn4r.cloudfront.net\/icon\/2015\/07\/34e05a5eea3711100e962ff552b0b250.png",
     "settings": {
         "vieber_html_allowed_tags": {
             "info": "HTML to Allow",
@@ -11,6 +11,7 @@
         }
     },
     "credits": {
-        "HTML Purifier": "http:\/\/htmlpurifier.org\/"
+        "HTML Purifier": "http:\/\/htmlpurifier.org\/",
+        "Freepik": "http:\/\/www.freepik.com"
     }
 }
